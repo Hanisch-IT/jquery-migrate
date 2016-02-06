@@ -1,5 +1,10 @@
 {
-    "name" : "jquery-migrate",
-    "version" : "1.3.0",
-    "main" : "jquery-migrate.js"
+  "name": "jquery-migrate",
+  "main": "jquery-migrate.js",
+  "homepage": "https://github.com/Hanisch-IT/jquery-migrate",
+  "description": "jQuery Migrate",
+  "keywords": [
+    "jquery",
+    "migrate"
+  ]
 }
